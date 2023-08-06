@@ -1,0 +1,3 @@
+Total Fertil: 503.30999999999983
+Total Densidad: 62995.6
+Total Eda_ema: 5818.499999999998
