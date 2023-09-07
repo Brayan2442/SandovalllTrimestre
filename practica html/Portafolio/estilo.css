@@ -319,7 +319,7 @@ scroll-behavior: smooth;
 
 .skills .skill .python{
     width: 0%;
-    animation: 2s python forwards;
+    animation: 5s python forwards;
 }
 @keyframes python{
     0%{width: 0%;}
@@ -328,7 +328,7 @@ scroll-behavior: smooth;
 
 .skills .skill .html{
     width: 0%;
-    animation: 2s html forwards;
+    animation: 5s html forwards;
 }
 
 @keyframes html{
@@ -338,7 +338,7 @@ scroll-behavior: smooth;
 
 .skills .skill .photoshop{
     width: 0%;
-    animation: 2s photoshop forwards;
+    animation: 5s photoshop forwards;
 }
 
 @keyframes photoshop{
@@ -348,7 +348,7 @@ scroll-behavior: smooth;
 
 .skills .skill .wordpress{
     width: 0%;
-    animation: 2s wordpress forwards;
+    animation: 5s wordpress forwards;
 }
 
 @keyframes wordpress{
@@ -358,7 +358,7 @@ scroll-behavior: smooth;
 
 .skills .skill .javascrip{
     width: 0%;
-    animation: 2s javascrip forwards;
+    animation: 5s javascrip forwards;
 }
 
 @keyframes javascrip{
@@ -368,7 +368,7 @@ scroll-behavior: smooth;
 
 .skills .skill .comunicacion{
     width: 0%;
-    animation: 2s comunicacion forwards;
+    animation: 5s comunicacion forwards;
 }
 
 @keyframes comunicacion{
@@ -378,7 +378,7 @@ scroll-behavior: smooth;
 
 .skills .skill .trabajoequipo{
     width: 0%;
-    animation: 2s trabajoequipo forwards;
+    animation: 5s trabajoequipo forwards;
 }
 
 @keyframes trabajoequipo{
@@ -388,7 +388,7 @@ scroll-behavior: smooth;
 
 .skills .skill .creatividad{
     width: 0%;
-    animation: 2s creatividad forwards;
+    animation: 5s creatividad forwards;
 }
 
 @keyframes creatividad{
@@ -398,7 +398,7 @@ scroll-behavior: smooth;
 
 .skills .skill .dedicacion{
     width: 0%;
-    animation: 2s dedicacion forwards;
+    animation: 5s dedicacion forwards;
 }
 
 @keyframes dedicacion{
@@ -408,7 +408,7 @@ scroll-behavior: smooth;
 
 .skills .skill .gestionproyecto{
     width: 0%;
-    animation: 2s gestionproyecto forwards;
+    animation: 5s gestionproyecto forwards;
 }
 
 @keyframes gestionproyecto{
